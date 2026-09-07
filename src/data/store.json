@@ -1,0 +1,699 @@
+{
+  "courses": [
+    {
+      "id": "course-1",
+      "slug": "ingilizce",
+      "title": "İngilizce Eğitimi (A1 - C2)",
+      "category": "Yabancı Dil",
+      "level": "A1 - C2 (Tüm Düzeyler)",
+      "shortDescription": "Uluslararası standartlarda konuşma odaklı Genel İngilizce ve IELTS/TOEFL hazırlık programı.",
+      "fullDescription": "Ata Akademi İngilizce programı, dilbilgisi ezberine dayalı klasik yöntemlerin yerine iletişimsel ve interaktif öğrenme metodolojisini benimser. Avrupa Ortak Dil Kriterleri (CEFR) standardında hazırlanan müfredatımızla günlük hayatta, akademik çalışmalarda ve iş dünyasında akıcı ve özgüvenli bir şekilde İngilizce konuşabilirsiniz.",
+      "duration": "16 Hafta / Kur",
+      "weeklyHours": "6 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-1",
+      "instructorName": "Elif Yılmaz",
+      "image": "/assets/courses/ingilizce.webp",
+      "badge": "En Çok Tercih Edilen",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Akıcı ve spontane konuşma yetkinliği kazanma",
+        "İş İngilizcesi ve resmi yazışma kurallarına hakimiyet",
+        "Dinleme anlama ve aksan kavrama teknikleri",
+        "Uluslararası sertifika sınavlarına (IELTS, TOEFL, YDS) hazırlık"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "Temel İletişim & Konuşma Becerileri",
+          "description": "Günlük diyaloglar, tanışma kalıpları ve telaffuz çalışmaları.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Yapısal Dilbilgisi ve Kelime Dağarcığı",
+          "description": "Zamanlar, bağlaçlar ve en sık kullanılan 2000 kelime analizi.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "İleri Seviye Dinleme ve Okuma Stratejileri",
+          "description": "Otantik metinler, podcast analizleri ve tartışma kulübü.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-4",
+          "title": "Akademik Yazma & Sunum Teknikleri",
+          "description": "Kompozisyon yazımı, sunum hazırlama ve münazara seansları.",
+          "duration": "4 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-2",
+      "slug": "almanca",
+      "title": "Almanca Eğitimi (A1 - C1)",
+      "category": "Yabancı Dil",
+      "level": "A1 - C1",
+      "shortDescription": "Almanya aile birleşimi, üniversite eğitimi ve Goethe/Telc/TestDaF sınavlarına özel müfredat.",
+      "fullDescription": "Almanca dil yapısını kökten kavramanıza yardımcı olan modüler sistemimiz; artikellerden cümle yapılarına, dinleme egzersizlerinden sözlü mülakatlara kadar kapsamlı bir hazırlık sunar. İzmir Torbalı'daki modern sınıflarımızda ana dili Almanca olan uzman eğitmenlerle pratik yapma imkanı.",
+      "duration": "14 Hafta / Kur",
+      "weeklyHours": "6 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-2",
+      "instructorName": "Markus Weber",
+      "image": "/assets/courses/almanca.webp",
+      "badge": "Sınav Garantili",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Goethe-Zertifikat ve Telc sınavlarında yüksek başarı",
+        "Almanya vize ve konsolosluk mülakatlarına hazırlık",
+        "Almanca teknik ve iş terimleri hakimiyeti",
+        "Doğru telaffuz ve fonetik yetkinlik"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "A1-A2 Temel Seviye & Artikeller",
+          "description": "Der/Die/Das kuralları, temel tanışma ve günlük yaşam diyalogları.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "B1 Seviyesi & İletişim Pratiği",
+          "description": "Karmaşık cümle yapıları, mektup/e-posta yazma ve rol yapma aktiviteleri.",
+          "duration": "5 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "B2-C1 Akademik ve Mesleki Almanca",
+          "description": "Teknik makale analizleri, iş görüşmeleri ve akıcı tartışmalar.",
+          "duration": "5 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-12T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-3",
+      "slug": "romence",
+      "title": "Romence Eğitimi (A1 - B2)",
+      "category": "Yabancı Dil",
+      "level": "A1 - B2",
+      "shortDescription": "Latin kökenli Romence dilini kolay anlaşılır kurallar ve konuşma kulüpleriyle öğrenin.",
+      "fullDescription": "Romanya ile ticaret, eğitim veya kişisel bağları olan katılımcılar için özel olarak dizayn edilmiş Romence kursumuz; dilin melodik yapısını ve Latin gramer temellerini pratik yöntemlerle öğretmektedir.",
+      "duration": "12 Hafta",
+      "weeklyHours": "4 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-3",
+      "instructorName": "Elena Dumitru",
+      "image": "/assets/courses/romence.webp",
+      "badge": "Özel Program",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Romence günlük konuşma diline tam hakimiyet",
+        "Romanya kültür kodları ve ticari iletişim becerileri",
+        "Okuma, yazma ve dinleme dengeli gelişimi"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "Romence Fonetik ve Temel Kalıplar",
+          "description": "Alfabe, özel sesler, selamlaşma ve basit sorular.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Günlük Hayat & Sosyal İletişim",
+          "description": "Alışveriş, seyahat, restoran ve yön tarifleri diyalogları.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "Orta Düzey Metin Analizi & Konuşma",
+          "description": "Haber metinleri, kültürel içerikler ve karşılıklı konuşma pratikleri.",
+          "duration": "4 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-4",
+      "slug": "korece",
+      "title": "Korece Eğitimi & Hangul",
+      "category": "Yabancı Dil",
+      "level": "Başlangıç - İleri (TOPIK I-II)",
+      "shortDescription": "Hangul alfabesinden başlayarak K-Drama, K-Pop kültürü ve TOPIK sınavına yönelik Korece.",
+      "fullDescription": "Korece öğrenmek hiç bu kadar keyifli olmamıştı! Hangul yazı sisteminin mantığından başlayarak saygı derecelerine (존댓말), günlük kalıplardan TOPIK sınav hazırlığına kadar uzanan zengin eğitim içeriğimizle Kore kültürünü dil ile keşfedin.",
+      "duration": "16 Hafta",
+      "weeklyHours": "4 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-4",
+      "instructorName": "Min-jun Park",
+      "image": "/assets/courses/korece.webp",
+      "badge": "Popüler",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Hangul alfabesini ilk haftada okuyup yazabilme",
+        "Korece saygı dereceleri ve kültürel hitap kalıpları",
+        "TOPIK I ve TOPIK II sınav stratejileri",
+        "Kore dizileri ve şarkı sözlerini anlayabilme"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "Hangul Alfabesi ve Telaffuz Kuralları",
+          "description": "Ünlüler, ünsüzler, çift sesler ve hece blokları mantığı.",
+          "duration": "3 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Temel Cümle Yapısı ve Fiil Çekimleri",
+          "description": "Özne, nesne, yüklem dizilimi ve şimdiki/geçmiş zaman çekimleri.",
+          "duration": "6 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "Sosyal Diyaloglar ve TOPIK Hazırlık",
+          "description": "Gerçek yaşam senaryoları ve TOPIK deneme soru çözümleri.",
+          "duration": "7 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-20T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-5",
+      "slug": "italyanca",
+      "title": "İtalyanca Eğitimi (A1 - B2)",
+      "category": "Yabancı Dil",
+      "level": "A1 - B2",
+      "shortDescription": "Sanat, gastronomi ve mimarinin dili İtalyancayı keyifli ve akıcı bir metodolojiyle öğrenin.",
+      "fullDescription": "İtalya'da üniversite eğitimi almayı planlayanlar, mimarlık/tasarım öğrencileri ve İtalyan kültürüne ilgi duyanlar için CILS/CELI sınavlarına tam uyumlu, konuşma odaklı İtalyanca eğitimi.",
+      "duration": "14 Hafta",
+      "weeklyHours": "4 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-1",
+      "instructorName": "Elif Yılmaz",
+      "image": "/assets/courses/italyanca.webp",
+      "badge": "Yeni Dönem",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "İtalyanca akıcı telaffuz ve tonlama",
+        "İtalya üniversite kabul sınavlarına hazırlık",
+        "CILS ve CELI dil sertifikası kazanımı"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "İtalyanca Giriş & Fonetik",
+          "description": "Selamlaşma, sayılar, basit sıfatlar ve artikeller.",
+          "duration": "4 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Zamanlar ve İletişim Kalıpları",
+          "description": "Presente, Passato Prossimo ve günlük sohbetler.",
+          "duration": "5 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "İleri Konuşma ve Kültür Kulübü",
+          "description": "İtalyan edebiyatı, sineması ve serbest münazara.",
+          "duration": "5 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-22T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-6",
+      "slug": "hizli-okuma-ve-anlama",
+      "title": "Yapay Zeka Destekli Hızlı Okuma ve Anlama",
+      "category": "Kişisel Gelişim",
+      "level": "Tüm Yaş Grupları & Sınav Öğrencileri (LGS / YKS / KPSS / ALES)",
+      "shortDescription": "Türkiye'de tek olan yapay zeka destekli Hızlı Okuma ve Anlama programı ile okuma hızınızı 3 ila 5 katına çıkarın, kavrama oranınızı %90'ın üzerine taşıyın.",
+      "fullDescription": "Ata Akademi bünyesinde sunulan Türkiye'de tek olan yapay zeka destekli Hızlı Okuma ve Anlama programı; katılımcının göz kası hareketlerini, odaklanma süresini ve kavrama düzeyini kişiselleştirilmiş yapay zeka algoritmalarıyla analiz eder. LGS, YKS, KPSS, ALES gibi süreli sınavlarda zaman kazandırırken, akademik ve profesyonel metinlerde anlama ve hatırlama performansını zirveye taşır.",
+      "duration": "6 Hafta",
+      "weeklyHours": "4 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-5",
+      "instructorName": "Burak Çelik",
+      "image": "/assets/courses/hizli-okuma.webp",
+      "badge": "Türkiye'de Tek",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Türkiye'de tek olan tescilli yapay zeka algoritmalarıyla kişiselleştirilmiş hız ve kavrama eğitimi",
+        "Dakikada 600-1200 kelime okuma ve %90+ kavrama kapasitesine ulaşma",
+        "LGS, YKS, KPSS ve ALES paragraf sorularını yarı sürede tam doğrulukla çözme becerisi",
+        "Bilişsel algoritmalarla göz kaslarını genişletme ve iç seslendirmeyi engelleyerek tam odaklanma"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "Yapay Zeka Bilişsel Hız Analizi & Göz Kası Egzersizleri",
+          "description": "Giriş seviyesi AI tespiti, odaklanma testleri ve takistoskopik görme alanı genişletme.",
+          "duration": "2 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Kişiselleştirilmiş AI Blok Okuma & Görsel Algı",
+          "description": "Algoritmik hız artırımı, kelime bloklarını tek bakışta yakalama ve bellek haritalama.",
+          "duration": "2 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "Sınav Odaklı Paragraf Ustalığı & AI Performans Takibi",
+          "description": "Süre yönetimi, soru kökü analizi, hafıza haritaları ve periyodik AI gelişim raporları.",
+          "duration": "2 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-25T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "course-7",
+      "slug": "diksiyon-egitimi",
+      "title": "Diksiyon, Beden Dili & Hitabet Eğitimi",
+      "category": "Kişisel Gelişim",
+      "level": "Başlangıç - İleri",
+      "shortDescription": "Doğru nefes, etkili ses kullanımı, kusursuz telaffuz ve sahnede özgüvenli hitabet.",
+      "fullDescription": "Topluluk önünde konuşurken heyecanınızı yönetmek, ses tonunuzu etkileyici kılmak ve Türkçeyi kurallarına uygun, pürüzsüz konuşmak isteyen herkes için uygulamalı atölye programı.",
+      "duration": "8 Hafta",
+      "weeklyHours": "4 Saat / Hafta",
+      "price": "Ücret ve Detaylı Bilgi İçin İletişime Geçiniz",
+      "instructorId": "inst-5",
+      "instructorName": "Burak Çelik",
+      "image": "/assets/courses/diksiyon.webp",
+      "badge": "Sertifikalı",
+      "featured": true,
+      "isVisible": true,
+      "learningOutcomes": [
+        "Diyafram nefesini doğru kullanarak ses yorulmasını önleme",
+        "Boğumlama ve artikülasyon kusurlarını düzeltme",
+        "Topluluk önünde heyecan kontrolü ve beden dili uyumu",
+        "Etkileyici tonlama, vurgu ve ikna edici konuşma"
+      ],
+      "modules": [
+        {
+          "id": "m-1",
+          "title": "Diyafram ve Doğru Nefes Teknikleri",
+          "description": "Nefes kontrolü, ses rezonansı ve rahatlama egzersizleri.",
+          "duration": "2 Hafta"
+        },
+        {
+          "id": "m-2",
+          "title": "Artikülasyon, Boğumlama ve Fonetik",
+          "description": "Tekerlemeler, ünlü-ünsüz ses uyumları ve tonlama.",
+          "duration": "3 Hafta"
+        },
+        {
+          "id": "m-3",
+          "title": "Beden Dili, Sahne Duruşu ve Hitabet",
+          "description": "Jest-mimik uyumu, sunum pratikleri ve video analizleri.",
+          "duration": "3 Hafta"
+        }
+      ],
+      "createdAt": "2026-01-28T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    }
+  ],
+  "instructors": [
+    {
+      "id": "inst-1",
+      "name": "Elif Yılmaz",
+      "title": "Kıdemli İngilizce & İtalyanca Eğitmeni",
+      "languages": [
+        "İngilizce",
+        "İtalyanca"
+      ],
+      "bio": "Ege Üniversitesi İngiliz Dili ve Edebiyatı mezunu. Floransa Üniversitesi'nde dilbilim araştırmalarında bulunmuştur. 10 yılı aşkın süredir sınav hazırlık ve konuşma kulüplerini yönetmektedir.",
+      "experience": "10+ Yıl Deneyim",
+      "education": "Ege Üniversitesi / Università di Firenze",
+      "image": "/assets/instructors/instructor-1.webp",
+      "isVisible": true,
+      "rating": 4.9,
+      "studentCount": 580,
+      "email": "elif.yilmaz@ataakademi.com",
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "inst-2",
+      "name": "Markus Weber",
+      "title": "Almanca Ana Dil Eğitmeni & Sınav Mentoru",
+      "languages": [
+        "Almanca",
+        "İngilizce"
+      ],
+      "bio": "Münih doğumlu, Goethe Enstitüsü sertifikalı eğitmen. Aile birleşimi, Telc ve TestDaF sınav tekniklerinde yüzlerce öğrenciyi başarıya ulaştırmıştır.",
+      "experience": "8+ Yıl Deneyim",
+      "education": "Ludwig-Maximilians-Universität München",
+      "image": "/assets/instructors/instructor-2.webp",
+      "isVisible": true,
+      "rating": 5,
+      "studentCount": 420,
+      "email": "markus.weber@ataakademi.com",
+      "createdAt": "2026-01-02T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "inst-3",
+      "name": "Elena Dumitru",
+      "title": "Romence & Latin Dilleri Uzmanı",
+      "languages": [
+        "Romence",
+        "İngilizce"
+      ],
+      "bio": "Bükreş Üniversitesi Filoloji Fakültesi mezunu. Ticari Romence ve akademik çeviri alanında uzmanlaşmış, interaktif ders metodolojisi ile tanınmaktadır.",
+      "experience": "7+ Yıl Deneyim",
+      "education": "Universitatea din București",
+      "image": "/assets/instructors/instructor-3.webp",
+      "isVisible": true,
+      "rating": 4.8,
+      "studentCount": 260,
+      "email": "elena.dumitru@ataakademi.com",
+      "createdAt": "2026-01-03T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "inst-4",
+      "name": "Min-jun Park",
+      "title": "Korece & Doğu Asya Kültürü Eğitmeni",
+      "languages": [
+        "Korece",
+        "Türkçe",
+        "İngilizce"
+      ],
+      "bio": "Seoul National University mezunu. Türkiye'de 6 yıldır Korece eğitimi vermekte, TOPIK sınav koordinatörlüğü ve kültür atölyeleri yürütmektedir.",
+      "experience": "6+ Yıl Deneyim",
+      "education": "Seoul National University (SNU)",
+      "image": "/assets/instructors/instructor-4.webp",
+      "isVisible": true,
+      "rating": 4.9,
+      "studentCount": 390,
+      "email": "minjun.park@ataakademi.com",
+      "createdAt": "2026-01-04T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    },
+    {
+      "id": "inst-5",
+      "name": "Burak Çelik",
+      "title": "Diksiyon, Hitabet & AI Hızlı Okuma Mentoru",
+      "languages": [
+        "Türkçe"
+      ],
+      "bio": "Devlet Tiyatrosu kökenli seslendirme sanatçısı ve iletişim danışmanı. Türkiye'de tek olan yapay zeka destekli Hızlı Okuma programı ve diksiyon alanında binlerce öğrenciyi başarıya ulaştırmıştır.",
+      "experience": "12+ Yıl Deneyim",
+      "education": "Dokuz Eylül Üniversitesi Güzel Sanatlar Fakültesi",
+      "image": "/assets/instructors/instructor-5.webp",
+      "isVisible": true,
+      "rating": 5,
+      "studentCount": 850,
+      "email": "burak.celik@ataakademi.com",
+      "createdAt": "2026-01-05T10:00:00.000Z",
+      "updatedAt": "2026-08-30T10:00:00.000Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "studentName": "Zeynep Kaya",
+      "courseTitle": "İngilizce Eğitimi (C1)",
+      "rating": 3,
+      "comment": "Ata Akademi sayesinde yıllardır aşamadığım konuşma bariyerini yıktım. Elif Hoca'nın enerjisi ve konuşma kulüpleri sayesinde IELTS sınavından 7.5 aldım. Torbalı'da böyle kaliteli bir merkezin olması büyük şans!",
+      "avatar": "/assets/reviews/student-1.webp",
+      "date": "14 Şubat 2026",
+      "isVisible": true,
+      "featured": true,
+      "createdAt": "2026-02-14T10:00:00.000Z",
+      "updatedAt": "2026-08-30T14:50:39.266Z"
+    },
+    {
+      "id": "rev-2",
+      "studentName": "Ahmet Demir",
+      "courseTitle": "Almanca Eğitimi (B2)",
+      "rating": 3,
+      "comment": "Almanya yüksek lisans başvurusu için Goethe B2 sertifikası almam gerekiyordu. Markus Hoca ile 4 ayda hedefime ulaştım. Ders materyalleri ve birebir ilgi harikaydı. Kesinlikle tavsiye ederim.",
+      "avatar": "/assets/reviews/student-2.webp",
+      "date": "28 Ocak 2026",
+      "isVisible": true,
+      "featured": true,
+      "createdAt": "2026-01-28T10:00:00.000Z",
+      "updatedAt": "2026-08-30T14:50:58.862Z"
+    },
+    {
+      "id": "rev-3",
+      "studentName": "Selin Yıldız",
+      "courseTitle": "Yapay Zeka Destekli Hızlı Okuma",
+      "rating": 3,
+      "comment": "YKS hazırlık sürecinde paragraf sorularında çok vakit kaybediyordum. Türkiye'de tek olan yapay zeka destekli hızlı okuma programı ile 6 haftalık eğitim sonunda okuma hızım 3.5 katına çıktı ve TYT Türkçe netlerim tavan yaptı!",
+      "avatar": "/assets/reviews/student-3.webp",
+      "date": "05 Mart 2026",
+      "isVisible": true,
+      "featured": true,
+      "createdAt": "2026-03-05T10:00:00.000Z",
+      "updatedAt": "2026-08-30T14:51:01.570Z"
+    },
+    {
+      "id": "rev-4",
+      "studentName": "Mehmet Öztürk",
+      "courseTitle": "Diksiyon & Hitabet",
+      "rating": 3,
+      "comment": "İş hayatında sunum yaparken duyduğum heyecanı yenmek için katıldım. Diyafram nefesi ve tonlama çalışmalarıyla sesimi çok daha güvenli ve etkileyici kullanmayı öğrendim.",
+      "avatar": "/assets/reviews/student-4.webp",
+      "date": "18 Nisan 2026",
+      "isVisible": true,
+      "featured": true,
+      "createdAt": "2026-04-18T10:00:00.000Z",
+      "updatedAt": "2026-08-30T14:51:04.229Z"
+    }
+  ],
+  "messages": [],
+  "statistics": {
+    "activeStudents": 1250,
+    "totalCourses": 7,
+    "expertInstructors": 5,
+    "successRate": 98
+  },
+  "homeContent": {
+    "siteMode": "NEW_REGISTRATION",
+    "topBarNotification": {
+      "newRegistration": "Yeni Dönem Kayıtlarımız Başladı! Erken Kayıt Fırsatlarını Kaçırmayın.",
+      "activeTerm": "Aktif Dönem Derslerimiz Devam Ediyor. Yeni Gruplar & Ara Kayıtlar İçin İletişime Geçin."
+    },
+    "hero": {
+      "badge": {
+        "newRegistration": "2026-2027 Yeni Dönem Kayıtları Açıldı",
+        "activeTerm": "Aktif Dönem Dersleri Devam Ediyor & Ara Kayıtlar"
+      },
+      "titlePrefix": "Hayallerinizdeki Dili ve Potansiyelinizi",
+      "titleHighlight": "Ata Akademi",
+      "titleSuffix": "ile Keşfedin",
+      "description": "Türkiye'de tek olan yapay zeka destekli Hızlı Okuma ve Anlama programımız, dünya standartlarında yabancı dil eğitimlerimiz ve profesyonel gelişim atölyelerimizle geleceğinize değer katın.",
+      "primaryBtnText": {
+        "newRegistration": "Kursları Keşfet & Kayıt Ol",
+        "activeTerm": "Aktif Kursları İncele"
+      },
+      "secondaryBtnText": "Hızlı okuma ve anlama için ulaşınız.",
+      "trustPoints": [
+        "Türkiye'de Tek: AI Destekli Hızlı Okuma",
+        "MEB Onaylı Müfredat",
+        "Butik Sınıflar (Maks 10)",
+        "Uluslararası Sertifika"
+      ],
+      "floatingBadgeTitle": {
+        "newRegistration": "Yeni Dönem Başlıyor",
+        "activeTerm": "Derslerimiz Başladı"
+      },
+      "floatingBadgeSubtitle": {
+        "newRegistration": "Erken kayıt kontenjanları sınırlıdır",
+        "activeTerm": "Yeni açılacak gruplar için yerinizi ayırtın"
+      },
+      "floatingBadgeBtn": {
+        "newRegistration": "Kayıt Ol",
+        "activeTerm": "Detaylı Bilgi"
+      }
+    },
+    "stats": {
+      "activeStudents": "1250+",
+      "activeStudentsLabel": "Mezun & Aktif Öğrenci",
+      "successRate": "%98",
+      "successRateLabel": "Sınav Başarı Oranı",
+      "totalCourses": "7+",
+      "totalCoursesLabel": "Aktif Eğitim Programı",
+      "expertInstructors": "5",
+      "expertInstructorsLabel": "Uzman & Ana Dil Eğitmeni"
+    },
+    "featuresSection": {
+      "tag": "Fark Yaratan Özelliklerimiz",
+      "title": "Neden Ata Akademi'yi Seçmelisiniz?",
+      "description": "Ezberci yöntemleri geride bırakın. Uygulamaya, konuşmaya, Türkiye'de tek yapay zeka teknolojisine ve ölçülebilir başarıya dayalı eğitim modelimizle hedeflerinize ulaşın.",
+      "items": [
+        {
+          "id": "feat-1",
+          "icon": "zap",
+          "title": "Türkiye'de Tek AI Hızlı Okuma",
+          "description": "Kişiselleştirilmiş bilişsel algoritmalarla okuma hızını ve kavrama gücünü artıran Türkiye'nin tek yapay zeka destekli sistemi."
+        },
+        {
+          "id": "feat-2",
+          "icon": "users",
+          "title": "Uzman & Ana Dil Kadrosu",
+          "description": "Alanında lisans ve yüksek lisans derecesine sahip, ana dili hedef dil olan sertifikalı eğitmenler."
+        },
+        {
+          "id": "feat-3",
+          "icon": "message",
+          "title": "Konuşma Odaklı Metodoloji",
+          "description": "Haftalık ücretsiz konuşma kulüpleri ve interaktif diyalog seanslarıyla dili yaşayarak öğrenin."
+        },
+        {
+          "id": "feat-4",
+          "icon": "map",
+          "title": "Torbalı Merkezde Butik Sınıf",
+          "description": "Tepeköy mevkiinde, İZBAN'a birkaç dakika mesafede, maksimum 8-10 kişilik konforlu sınıflar."
+        }
+      ]
+    },
+    "coursesSection": {
+      "tag": "Geleceğe Yatırım",
+      "title": "Popüler Eğitim Programlarımız",
+      "viewAllText": "Tüm Kursları Görüntüle"
+    },
+    "instructorsSection": {
+      "tag": "Alanında Lider Kadro",
+      "title": "Eğitmenlerimizle Tanışın",
+      "viewAllText": "Tüm Eğitmenleri Gör"
+    },
+    "reviewsSection": {
+      "tag": "Başarı Hikayeleri",
+      "title": "Öğrencilerimiz Ne Diyor?",
+      "viewAllText": "Tüm Yorumları Oku"
+    },
+    "aiSpeedReadingSection": {
+      "badge": "Türkiye'de Tek & Ata Akademi'ye Özel",
+      "title": "Yapay Zeka Destekli",
+      "titleHighlight": "Hızlı Okuma ve Anlama",
+      "titleSuffix": "Programı",
+      "description": "Göz kası hareketlerini ve odaklanmayı kişiselleştirilmiş yapay zeka algoritmalarıyla analiz eden Türkiye'nin ilk ve tek tescilli sistemiyle okuma hızınızı 3 ila 5 katına çıkarın, kavrama oranınızı %90'ın üzerine taşıyın.",
+      "features": [
+        {
+          "id": "ai-feat-1",
+          "icon": "zap",
+          "title": "Kişiselleştirilmiş AI Algoritmaları"
+        },
+        {
+          "id": "ai-feat-2",
+          "icon": "award",
+          "title": "LGS, YKS, KPSS & ALES Başarısı"
+        },
+        {
+          "id": "ai-feat-3",
+          "icon": "sparkles",
+          "title": "%90+ Kalıcı Anlama Oranı"
+        }
+      ],
+      "buttonText": "Hızlı okuma ve anlama için ulaşınız.",
+      "buttonLink": "/courses/hizli-okuma-ve-anlama",
+      "image": "/assets/courses/hizli-okuma.webp",
+      "imageBadge": "Tescilli AI Algoritması"
+    },
+    "locationCta": {
+      "badge": "Torbalı / İzmir Kampüsümüz",
+      "title": "Gelin, Bir Kahvemizi İçin ve Hedeflerinizi Konuşalım",
+      "address": "Tepeköy, 4550. Sk. No:51/A, 35000 Torbalı/İzmir, İzmir, Türkiye",
+      "description": "Torbalı İZBAN İstasyonuna ve çarşı merkezine yürüme mesafesinde modern yerleşkemizde sizleri ağırlamaktan mutluluk duyarız.",
+      "primaryBtnText": "Yol Tarifi & İletişim",
+      "phoneBtnText": "(0232) 856 00 35"
+    }
+  },
+  "aboutContent": {
+    "header": {
+      "badge": "Kurumsal Değerlerimiz",
+      "title": "Hakkımızda & Eğitim Felsefemiz",
+      "description": "Ata Akademi, İzmir Torbalı'da bireylerin dünya standartlarında yabancı dil öğrenmesi ve Türkiye'de tek olan yapay zeka destekli Hızlı Okuma teknolojisiyle kişisel potansiyellerini en üst düzeye çıkarması amacıyla kurulmuş öncü bir eğitim kurumudur."
+    },
+    "story": {
+      "tag": "Geleceği Şekillendiren Yaklaşım",
+      "title": "Torbalı'dan Dünyaya Açılan Eğitim Köprüsü",
+      "paragraph1": "Geleneksel, yalnızca ezbere dayalı ve pratikten uzak öğretim modellerine son veriyoruz. Ata Akademi olarak hedefimiz; öğrencilerimizin öğrendikleri dilde düşünmelerini, kendilerini özgürce ifade etmelerini ve Türkiye'de tek olan yapay zeka destekli Hızlı Okuma ve Anlama programımız ile akademik/bilişsel başarılarını zirveye taşımaktır.",
+      "paragraph2": "Torbalı Tepeköy merkezimizdeki modern sınıflarımız, interaktif akıllı tahta teknolojisi, yapay zeka destekli bilişsel laboratuvarlarımız, zengin yabancı dil kütüphanesi ve sürekli aktif konuşma kulüplerimiz ile öğrenmeyi keyifli bir yaşam tarzı haline getiriyoruz.",
+      "highlights": [
+        "Türkiye'de tek olan yapay zeka destekli Hızlı Okuma ve Anlama programı",
+        "Avrupa Ortak Dil Kriterleri (CEFR) uyumlu yabancı dil müfredatı",
+        "Butik sınıflar (Maksimum 8-10 kişilik gruplar)",
+        "Sınav hazırlık odaklı (LGS, YKS, KPSS, ALES, Goethe, Telc, IELTS, TOPIK)"
+      ],
+      "campusTitle": "Ata Akademi Torbalı Yerleşkesi",
+      "campusAddress": "Tepeköy, 4550. Sk. No:51/A, 35000 Torbalı/İzmir, İzmir, Türkiye",
+      "campusImage": "/assets/about-campus.webp"
+    },
+    "missionVision": {
+      "missionTitle": "Misyonumuz",
+      "missionDescription": "Her öğrencimizin bireysel öğrenme hızına ve hedeflerine saygı duyarak, en çağdaş pedagojik yöntemlerle ve Türkiye'de öncüsü olduğumuz yapay zeka teknolojileriyle yüksek kalitede yabancı dil ve kişisel gelişim eğitimleri sunmak. Dil ve odaklanma engellerini ortadan kaldırıp uluslararası alanda rekabet edebilen özgüvenli bireyler yetiştirmek.",
+      "visionTitle": "Vizyonumuz",
+      "visionDescription": "İzmir ve Türkiye genelinde eğitim kalitesi, tescilli yapay zeka destekli programları, öğrenci memnuniyeti ve uluslararası sınav başarılarıyla ilk akla gelen, yenilikçi ve referans kabul edilen lider akademi markası olmak."
+    },
+    "valuesSection": {
+      "tag": "Prensiplerimiz",
+      "title": "Bizi Biz Yapan Temel İlkeler",
+      "items": [
+        {
+          "id": "val-1",
+          "icon": "shield",
+          "title": "Güvenilirlik ve Şeffaflık",
+          "description": "Kayıt öncesi vaat ettiğimiz her ders saatini ve eğitim materyalini eksiksiz teslim ederiz."
+        },
+        {
+          "id": "val-2",
+          "icon": "users",
+          "title": "Öğrenci Odaklılık",
+          "description": "Her öğrencinin öğrenme stiline özel danışmanlık ve periyodik gelişim takip raporları."
+        },
+        {
+          "id": "val-3",
+          "icon": "sparkles",
+          "title": "Yapay Zeka & İnovasyon",
+          "description": "Türkiye'de tek olan yapay zeka destekli hızlı okuma teknolojimiz ve modern dijital öğretim araçlarımız."
+        },
+        {
+          "id": "val-4",
+          "icon": "heart",
+          "title": "Samimi İletişim",
+          "description": "Eğitmenlerimiz ve idari ekibimizle aile sıcaklığında, motive edici bir eğitim atmosferi."
+        }
+      ]
+    }
+  },
+  "contactInfo": {
+    "address": "Tepeköy, 4550. Sk. No:51/A, 35000 Torbalı/İzmir, İzmir, Türkiye",
+    "addressNote": "(Torbalı İZBAN İstasyonu ve İlçe Merkezine 5 dk yürüme mesafesinde)",
+    "phone": "(0232) 856 00 35",
+    "phoneRaw": "+902328560035",
+    "email": "info@ataakademi.com",
+    "workingHours": {
+      "weekdays": "09:00 - 20:00",
+      "saturday": "09:00 - 20:00",
+      "sunday": "10:00 - 18:00 (Özel Seanslar & Etüt)",
+      "summary": "Hafta İçi & Cts: 09:00 - 20:00 | Pazar: 10:00 - 18:00"
+    },
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Torbal%C4%B1%20Tepek%C3%B6y%204550%20Sokak&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "mapDirectUrl": "https://maps.google.com/?q=Tepeköy,+4550.+Sk.+No:51/A,+35000+Torbalı/İzmir",
+    "socialLinks": {
+      "instagram": "https://instagram.com",
+      "facebook": "https://facebook.com",
+      "linkedin": "https://linkedin.com",
+      "youtube": "https://youtube.com"
+    }
+  }
+}
